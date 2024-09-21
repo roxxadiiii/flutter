@@ -37,4 +37,6 @@ void main(){
     print("my name is ${name}");    //using variable
 ```
 
+
 - we run dart program by `dart run <programName>`
+-

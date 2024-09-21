@@ -8,8 +8,15 @@ void main(){
   //floating points
   double gpa = 3.55 ;
   //booleans are true and false value
-  bool = true ;
-  bool = isRegistervoter = false ;
-  bool isAbouse18 = true ;
+  bool isRegistervoter = false ;
+  bool isAbovse18 = true ;
+
+  //printing
+  print(age);
+  print(firstName);
+  print(gpa);
+  print(isRegistervoter);
+  print(isAbovse18);
 }
+
 
